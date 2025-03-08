@@ -2,9 +2,11 @@
  <a href="https://discord.com/users/141083334225821696" target"blank_"><img src="https://img.shields.io/badge/CubbeliBey%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/alperenzkk_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
   <a href="https://www.github.com/cubbelibeyjs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=yellow"></a>
+  <a href="https://www.linkedin.com/in/alperenozkok" target"blank_"><img src="https://img.shields.io/badge/LinkedIn%20-191717.svg?&style=for-the-badge&logo=&logoColor=yellow"></a>
 
-Selam, Ben CubbeliBey.
 
-Discord Hesabım: `alp⋈#0025` [Discord](https://discord.com/users/356802804314013717)
+Selam, Ben alp.
 
-Discord nickim değişiklik gösterebilir. `discord.gg/thaypon` sunucusuna gelip beni bulabilirsiniz.
+Discord Hesabım: `alp.55` [Discord](https://discord.com/users/141083334225821696)
+
+Discord nickim değişiklik gösterebilir. LinkedIn üzerinden iletişime geçebilirsiniz. https://www.linkedin.com/in/alperenozkok/
