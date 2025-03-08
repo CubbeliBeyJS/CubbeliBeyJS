@@ -8,5 +8,5 @@ Selam, Ben alp.
 
 Discord Hesabım: `alp.55` [Discord](https://discord.com/users/141083334225821696)
 
-Discord nickim değişiklik gösterebilir. LinkedIn üzerinden iletişime geçebilirsiniz. https://www.linkedin.com/in/alperenozkok/
+Discord nickim değişiklik gösterebilir. LinkedIn üzerinden iletişime geçebilirsiniz.
 
